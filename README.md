@@ -39,6 +39,8 @@ An end-to-end machine learning and spatial analytics project using synthetic hou
 
 🔗 [Explore the GitHub repository](https://github.com/fmiriam/nairobi-housing-price-prediction)
 
+🚀 [Try the Housing Price Prediction App](https://nairobi-housing-price-prediction-3xyodqgcmij6sk8ulzxn8m.streamlit.app/)
+
 *This project uses entirely synthetic data. Predictions and geographic patterns are illustrative and do not represent actual Nairobi property valuations.*
 
 ## Technical Skills
