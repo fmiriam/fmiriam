@@ -1,4 +1,4 @@
-![GitHub Profile Banner](Data Science and Digital Transformation Banner.png)
+![GitHub Profile Banner](Data%20Science%20and%20Digital%20Transformation%20Banner.png)
 # Hello, I am Faith Osoro 
 
 **Data Science | Digital Transformation | Technology & Public Policy**
