@@ -6,7 +6,7 @@ I am a data science and digital transformation professional with experience in a
 
 My work spans data analysis, predictive modelling, reporting systems, and digital transformation initiatives. I am particularly interested in how data, artificial intelligence, and emerging technologies can support evidence-informed decision-making and improve public services.
 
-I currently support digital transformation initiatives at the United Nations Environment Programme (UNEP), bringing together technical analysis, programme implementation, and results reporting.
+I currently support digital transformation initiatives at the United Nations Environment Programme, bringing together technical analysis, programme implementation, and results reporting.
 
 ## Areas of Focus
 
